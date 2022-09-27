@@ -1,0 +1,6 @@
+Copyright 2022 The University of Melbourne
+
+The software has been developed for use by students in the 2022 Semester 2 Distributed Systems COMP90015 subject at the University of Melbourne, Australia.
+
+The software may be used by such students with identical permissions to the MIT License, having respect to this copyright notice. A copy of the MIT License is provided in MIT.txt.
+
