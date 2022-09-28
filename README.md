@@ -9,4 +9,6 @@ Peer functionalities implemented for the project is written in the following:
 - [Upload.java](https://github.com/lichingt/p2p/blob/main/src/main/java/comp90015/idxsrv/peer/Upload.java)
 - [Download.java](https://github.com/lichingt/p2p/blob/main/src/main/java/comp90015/idxsrv/peer/Download.java)
 
-The software has been modified as part of an assignment in 2022 Semester 2 Distributed Systems COMP90015 subject at the University of Melbourne, Australia.
+<hr>
+
+The software has been modified as part of an assignment in 2022 Semester 2 Distributed Systems subject at the University of Melbourne, Australia.
